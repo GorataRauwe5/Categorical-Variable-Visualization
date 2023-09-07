@@ -3,6 +3,6 @@ This project focuses on the visualization of categorical variables using Excel. 
 Summary table
 Frequency table
 Bar chart
-Pie charT
+Pie chart
 Pareto diagram
 Clustered column 
